@@ -1,1 +1,2 @@
-# proyecto-c29v2
+# aplasta-al-zombie-1
+solución del proyecto C29
